@@ -1,0 +1,42 @@
+
+
+.single-movie-container {
+  max-width: 900px;
+  margin: 20px auto;
+  background-color: white;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.single-movie-container img {
+  width: 100%;
+  max-width: 300px;
+  border-radius: 10px;
+  float: left;
+  margin-right: 20px;
+}
+
+.single-movie-container h1 {
+  font-size: 2rem;
+  margin-bottom: 10px;
+}
+
+.single-movie-container p {
+  font-size: 1rem;
+  line-height: 1.5;
+}
+
+.single-movie-container h3 {
+  margin-top: 30px;
+  font-size: 1.5rem;
+}
+
+.single-movie-container ul {
+  margin-top: 10px;
+}
+
+.single-movie-container ul li {
+  font-size: 1rem;
+  margin-bottom: 5px;
+}

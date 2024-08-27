@@ -1,0 +1,43 @@
+
+
+nav {
+  background-color: #333;
+  padding: 1rem;
+  color: white;
+}
+
+.nav-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+nav a {
+  color: white;
+  margin: 0 1rem;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+nav form {
+  display: flex;
+}
+
+nav input {
+  padding: 0.5rem;
+  border-radius: 5px;
+  border: none;
+}
+
+nav button {
+  padding: 0.5rem 1rem;
+  background-color: #555;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  margin-left: 0.5rem;
+}
+
+nav button:hover {
+  background-color: #777;
+}
